@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tarea_3_3_TCP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tarea_3_3_TCP_jar</output-path>
+    <root id="archive" name="tarea_3_3_TCP.jar">
+      <element id="module-output" name="tarea_3_3_TCP" />
+    </root>
+  </artifact>
+</component>
